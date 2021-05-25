@@ -9,7 +9,10 @@ Python 3.7 + Tensorflow 2.0
 
 
 ## 执行结果
-
+- MMoE
+  <p align="center"> <img src="https://github.com/df865017/mulit_task/blob/main/pic/mmoe.png" width="70%"> </p>
+- ESMM
+  <p align="center"> <img src="https://github.com/df865017/mulit_task/blob/main/pic/essm.png" width="70%"> </p>
 
 ## 代码介绍
 utils是工具层，构建数据处理和模型训练和预测接口
